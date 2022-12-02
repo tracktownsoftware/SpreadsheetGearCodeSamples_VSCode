@@ -1,3 +1,5 @@
+##  ***** this is a work-in-progress ****
+
 # SpreadsheetGear Explorer Samples
 
 This repository contains SpreadsheetGear sample code for .Net 6 Windows (Windows Forms and WPF) and ASP.NET Core applications.
