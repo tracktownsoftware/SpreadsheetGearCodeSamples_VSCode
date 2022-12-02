@@ -2,13 +2,13 @@
 
 # SpreadsheetGear Explorer Samples
 
-This repository contains SpreadsheetGear sample code for .Net 6 Windows (Windows Forms and WPF) and ASP.NET Core applications.
+This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Forms, and ASP.NET Core applications. 
 
-This repository contains the following VS Solutions:
+The following folders and solution files (*.sln) can be opened in Visual Studio Code and Visual Studio 2022:
 
-*   **SpreadsheetGearExplorerSamples.sln** - Contains sample code VS Projects for Web (ASP.NET Core Razor Pages), and Windows (WPF and Windows Forms).
-*   **SpreadsheetGearExplorerSamples_Windows.sln** - Contains sample code VS Projects only for WPF and Windows Forms.
-*   **SpreadsheetGearExplorerSamples_Web.sln** - Contains the sample code VS Project only for ASP.NET Core Razor Pages.
+*   **SpreadsheetGearExplorerSamples_WPF/SpreadsheetGearExplorerSamples_WPF.sln** - Contains sample code for WPF.
+*   **SpreadsheetGearExplorerSamples_WindowsForms/SpreadsheetGearExplorerSamples_WindowsForms.sln** - Contains sample code for Windows Forms.
+*   **SpreadsheetGearExplorerSamples_VSCode/SpreadsheetGearExplorerSamples_Web.sln** - Contains sample code for ASP.NET Core Razor Pages.
 
 ## SpreadsheetGear Products Demonstrated
 The samples in Windows Forms Explorer, WPF Explorer and Web Explorer demonstrate a wide variety of APIs and features offered by the following SpreadsheetGear products:
