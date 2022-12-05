@@ -4,10 +4,10 @@
 
 This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Forms, and ASP.NET Core applications. 
 
-* **For Visual Studio Code on Windows:**
+* **For SpreadsheetGear in Visual Studio Code on Windows:**
   *   SpreadsheetGearExplorerSamples_WPF - Contains sample code for WPF.
   *   SpreadsheetGearExplorerSamples_WindowsForms - Contains sample code for Windows Forms.
-* **For Visual Studio Code on Windows, Linux and MacOS:**
+* **For SpreadsheetGear in Visual Studio Code on Windows, Linux and MacOS:**
   *   SpreadsheetGearExplorerSamples_Web - Contains sample code for ASP.NET Core Razor Pages.
 
 ## Quick Links to get Started ##
@@ -23,10 +23,16 @@ The SpreadsheetGear Explorer Samples for Windows Forms, WPF, and Web demonstrate
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their diffences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
 ## Visual Studio Code installation
-For Windows:
+**For Windows:**
 * Install [Visual Studio Code](https://code.visualstudio.com/) from 
 * Install [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
   * The .NET Extension pack includes:
     * [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
     * Jupyter Notebooks
 * Install [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+
+**For MacOS:**
+* work-in-progress
+
+**For Linux:**
+* work-in-progress
