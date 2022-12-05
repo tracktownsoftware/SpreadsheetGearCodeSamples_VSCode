@@ -18,7 +18,7 @@ This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Form
 * Open and run SpreadsheetGear sample code in Visual Studio Code
 
 ## SpreadsheetGear Nuget packages used in these demos
-The SpreadsheetGear sample code in this repository for Windows Forms, WPF, Web and Jupyter Notebooks demonstrate a wide variety of APIs and features offered by the following SpreadsheetGear products:
+The sample code in this repository demonstrates a wide variety of APIs and features offered by the following SpreadsheetGear products:
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta)** - the primary SpreadsheetGear library that provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more.
 *   **[SpreadsheetGear for Windows](https://www.nuget.org/packages/SpreadsheetGear.Windows/9.1.19-beta)** - builds on SpreadsheetGear Engine for .NET to add powerful Excel-compatible image rendering, viewing, editing, formatting, calculating, filtering, sorting, charting, printing and more to your Windows Forms and WPF applications with the easy-to-use WorkbookView and FormulaBar controls.
 
