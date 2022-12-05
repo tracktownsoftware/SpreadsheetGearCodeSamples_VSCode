@@ -15,7 +15,7 @@ This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Form
 * In **Visual Studio 2022**: Open the ".sln" solution file in one of the above sample code folders
 
 ## SpreadsheetGear Products Demonstrated
-The samples in Windows Forms Explorer, WPF Explorer and Web Explorer demonstrate a wide variety of APIs and features offered by the following SpreadsheetGear products:
+The SpreadsheetGear Explorer Samples for Windows Forms, WPF, and Web demonstrate a wide variety of APIs and features offered by the following SpreadsheetGear products:
 
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta)** - the primary SpreadsheetGear library that provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more.
 *   **[SpreadsheetGear for Windows](https://www.nuget.org/packages/SpreadsheetGear.Windows/9.1.19-beta)** - builds on SpreadsheetGear Engine for .NET to add powerful Excel-compatible image rendering, viewing, editing, formatting, calculating, filtering, sorting, charting, printing and more to your Windows Forms and WPF applications with the easy-to-use WorkbookView and FormulaBar controls.
