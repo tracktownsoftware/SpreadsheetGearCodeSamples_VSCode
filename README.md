@@ -38,3 +38,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 **For Linux:**
 * work-in-progress
+
+## Open and run SpreadsheetGear sample code in Visual Studio Code
+* work-in-progress
+
