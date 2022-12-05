@@ -1,6 +1,6 @@
 ##  ***** this is a work-in-progress ****
 
-# SpreadsheetGear sample code in Visual Studio Code
+# SpreadsheetGear sample code for Visual Studio Code
 
 This repository contains SpreadsheetGear sample code for .NET6 (WPF and Windows Forms), ASP.NET Core (Web), and Jupyter Notebook (Data Science) applications. 
 
