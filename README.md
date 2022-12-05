@@ -22,5 +22,11 @@ The samples in Windows Forms Explorer, WPF Explorer and Web Explorer demonstrate
 
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their diffences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
-## Requirements
+## Visual Studio Code Requirements
+* Install Visual Studio Code 
+  * https://code.visualstudio.com/
+* For SpreadsheetGear WPF and Windows Forms samples on Windows:
+  * SpreadsheetGearExplorerSamples_WindowsForms - Contains sample code for Windows Forms.
+* **For Visual Studio Code on Windows, Linux and MacOS:**
+  *   SpreadsheetGearExplorerSamples_Web - Contains sample code for ASP.NET Core Razor Pages.
 Opening and running these samples requires Visual Studio 2022 or Visual Studio Code and .NET 6.
