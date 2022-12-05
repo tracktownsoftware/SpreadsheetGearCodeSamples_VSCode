@@ -4,9 +4,11 @@
 
 This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Forms, and ASP.NET Core applications. 
 
-*   **SpreadsheetGearExplorerSamples_WPF** - Contains sample code for WPF.
-*   **SpreadsheetGearExplorerSamples_WindowsForms** - Contains sample code for Windows Forms.
-*   **SpreadsheetGearExplorerSamples_Web** - Contains sample code for ASP.NET Core Razor Pages.
+* **For Visual Studio Code on Windows:**
+  *   SpreadsheetGearExplorerSamples_WPF - Contains sample code for WPF.
+  *   SpreadsheetGearExplorerSamples_WindowsForms - Contains sample code for Windows Forms.
+* **For Visual Studio Code on Windows, Linux and MacOS:**
+  *   SpreadsheetGearExplorerSamples_Web - Contains sample code for ASP.NET Core Razor Pages.
 
 **How to open sample code in Visual Studio Code or Visual Studio 2022:**
 * In **Visual Studio Code**: Open one of the above sample code folders
