@@ -9,8 +9,8 @@ This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Form
   *   SpreadsheetGearExplorerSamples_WindowsForms - Contains C# sample code for Windows Forms.
 * **For SpreadsheetGear in Visual Studio Code on Windows, Linux and MacOS:**
   *   SpreadsheetGearExplorerSamples_Web - Contains sample code for ASP.NET Core Razor Pages.
-  *   SpreadsheetGearExplorerSamples_JupyterCSharp - Contains Jupyter notebook C# sample code
-  *   SpreadsheetGearExplorerSamples_JupyterPython - Contains Jupyter notebook Python sample code
+  *   SpreadsheetGearSamples_JupyterCSharp - Contains Jupyter notebook C# sample code
+  *   SpreadsheetGearSamples_JupyterPython - Contains Jupyter notebook Python sample code
 
 ## Quick Links to get Started ##
 * [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
