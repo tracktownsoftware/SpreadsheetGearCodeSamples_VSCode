@@ -13,7 +13,7 @@ This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Form
 ## Quick Links to get Started ##
 * [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
 * [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
-* How to open and run SpreadsheetGear sample code in Visual Studio Code
+* Open and run SpreadsheetGear sample code in Visual Studio Code
 
 ## SpreadsheetGear Nuget packages used in these demos
 The SpreadsheetGear Explorer Samples for Windows Forms, WPF, and Web demonstrate a wide variety of APIs and features offered by the following SpreadsheetGear products:
