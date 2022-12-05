@@ -31,7 +31,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
   * The .NET Extension pack includes:
     * [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
     * Jupyter Notebooks
-* Install [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+* Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (SpreadsheetGear requires .NET 6.0 or greater)
 
 **For MacOS:**
 * work-in-progress
