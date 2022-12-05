@@ -1,6 +1,6 @@
 ##  ***** this is a work-in-progress ****
 
-# SpreadsheetGear Explorer Samples in Visual Studio Code
+# SpreadsheetGear sample code in Visual Studio Code
 
 This repository contains SpreadsheetGear sample code for .NET6 WPF, Windows Forms, and ASP.NET Core applications. 
 
