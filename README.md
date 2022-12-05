@@ -26,7 +26,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 ## Visual Studio Code installation
 **For Windows:**
-* Install [Visual Studio Code](https://code.visualstudio.com/) from 
+* Install [Visual Studio Code](https://code.visualstudio.com/)
 * Install [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
   * The .NET Extension pack includes:
     * [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
