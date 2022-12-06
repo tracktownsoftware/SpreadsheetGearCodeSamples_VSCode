@@ -17,7 +17,7 @@ Visual Studio Code (VSCode) is a source code editor for Windows, Linux and MacOS
 ## Get Started ##
 * [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
 * [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
-* Step-by-step instructions to [Open and run SpreadsheetGear sample code in Visual Studio Code](#open-and-run-spreadsheetgear-sample-code-in-visual-studio-code)
+* [Open and run SpreadsheetGear sample code in Visual Studio Code](#open-and-run-spreadsheetgear-sample-code-in-visual-studio-code)
 
 ## SpreadsheetGear Nuget packages used in these demos
 The sample code in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
