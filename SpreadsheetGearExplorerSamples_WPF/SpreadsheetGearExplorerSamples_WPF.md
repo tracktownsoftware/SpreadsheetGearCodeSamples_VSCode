@@ -1,1 +1,0 @@
-## SpreadsheetGearExplorerSamples_WPF
