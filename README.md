@@ -34,6 +34,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
     * [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
     * Jupyter Notebooks
 * Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (SpreadsheetGear requires .NET 6.0 or greater)
+* Install [Git for Windows](https://git-scm.com/download/win)
 
 **For MacOS:**
 * work-in-progress
