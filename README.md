@@ -1,4 +1,4 @@
-##  ***** this is a work-in-progress ****
+## *** this is a work-in-progress ***
 
 # SpreadsheetGear sample code for Visual Studio Code
 
