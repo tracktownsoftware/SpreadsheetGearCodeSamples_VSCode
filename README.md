@@ -45,7 +45,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 ## Open and run SpreadsheetGear sample code in Visual Studio Code
 1. Clone this repo
-2. In VS Code open and run the sample code folder you are interested in
+2. In Visual Studio Code open and run the sample code folder you are interested in
 
 **Sample code for Windows only**
 - Open and run SpreadsheetGearExplorerSamples_WPF
