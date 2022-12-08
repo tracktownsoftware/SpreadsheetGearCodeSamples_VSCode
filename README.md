@@ -51,13 +51,13 @@ Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSamples_VSCode.git
 ```
     
-**2. In Visual Studio Code open and run the sample code folder you are interested in:**
+**2. In Visual Studio Code open the sample code folder you are interested in:**
 
-- **Sample code for Windows only**
-  - Open and run SpreadsheetGearExplorerSamples_WPF
-  - Open and run SpreadsheetGearExplorerSamples_WindowsForms
+- **Sample code folders for Windows only**
+  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_WPF
+  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_WindowsForms
 
-- **Sample code for Windows, Linux and MacOS**
-  - Open and run SpreadsheetGearExplorerSamples_Web
-  - Open and run SpreadsheetGearSampleCode_JupyterCSharp
-  - Open and run SpreadsheetGearSampleCode_JupyterPython
+- **Sample code folders for Windows, Linux and MacOS**
+  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_Web
+  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearSampleCode_JupyterCSharp
+  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearSampleCode_JupyterPython
