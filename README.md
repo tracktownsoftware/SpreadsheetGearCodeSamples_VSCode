@@ -44,11 +44,11 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 * work-in-progress
 
 ## Open and run SpreadsheetGear sample code in Visual Studio Code
-**1. Clone this repo**
+**1. Clone this repo into your target folder (I'll use "temp")**
 
 ```
 Windows command line example:
-C:\Users\yourname\source\repos>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSamples_VSCode.git
+C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSamples_VSCode.git
 ```
     
 **2. In Visual Studio Code open and run the sample code folder you are interested in:**
