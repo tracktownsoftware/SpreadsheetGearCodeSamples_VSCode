@@ -57,7 +57,7 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSa
   - Samples_WPF.code-workspace
 - **Sample code workspaces for Windows, Linux and MacOS**
   - Samples_Web.code-workspace
-  - SpreadsheetGearSampleCode_JupyterCSharp.code-workspace
-  - SpreadsheetGearSampleCode_JupyterPython.code-workspace
+  - Samples_JupyterCSharp.code-workspace
+  - Samples_JupyterPython.code-workspace
 
 **3. Run Visual Studio Code and select "File | Open workspace from File..." to open the sample code workspace you want to see**
