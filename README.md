@@ -11,8 +11,8 @@ Visual Studio Code (VSCode) is a source code editor for Windows, Linux and MacOS
   *   [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
 * **Sample code for SpreadsheetGear in Visual Studio Code on Windows, Linux and MacOS:**
   *   [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages.
-  *   SpreadsheetGearSampleCode_JupyterCSharp - Contains Jupyter notebook C# sample code
-  *   SpreadsheetGearSampleCode_JupyterPython - Contains Jupyter notebook Python sample code
+  *   Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
+  *   Samples_JupyterPython - Contains Jupyter notebook Python sample code
 
 ## Get Started ##
 * [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
