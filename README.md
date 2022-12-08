@@ -54,10 +54,10 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSa
 **2. In Visual Studio Code open the sample code folder you are interested in:**
 
 - **Sample code folders for Windows only**
-  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_WPF
-  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_WindowsForms
+  - How to open and run SpreadsheetGearExplorerSamples_WPF
+  - How to open and run SpreadsheetGearExplorerSamples_WindowsForms
 
 - **Sample code folders for Windows, Linux and MacOS**
-  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_Web
-  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearSampleCode_JupyterCSharp
-  - SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearSampleCode_JupyterPython
+  - How to open and run SpreadsheetGearExplorerSamples_Web
+  - SpreadsheetGearSampleCode_JupyterCSharp
+  - SpreadsheetGearSampleCode_JupyterPython
