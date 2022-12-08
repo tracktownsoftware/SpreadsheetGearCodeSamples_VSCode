@@ -54,7 +54,7 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSa
 **2. In Visual Studio Code open the sample code folder you are interested in:**
 
 - **Sample code folders for Windows only**
-  - How to open and run SpreadsheetGearExplorerSamples_WPF
+  - [How to open and run SpreadsheetGearExplorerSamples_WPF](/docs/SGExplorerSamples_Windows_WPF.md)
   - How to open and run SpreadsheetGearExplorerSamples_WindowsForms
 
 - **Sample code folders for Windows, Linux and MacOS**
