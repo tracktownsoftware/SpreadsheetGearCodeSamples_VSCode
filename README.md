@@ -7,10 +7,10 @@ This repository contains SpreadsheetGear sample code for .NET6 WPF, .NET6 Window
 Visual Studio Code (VSCode) is a source code editor for Windows, Linux and MacOS. This repository is based on a fork of [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples) which was developed using Visual Studio 2022 on Windows. Sample code has been simplified for VSCode with one solution file (.sln) per folder and only one possible startup project (.csproj) per solution.
 
 * **Sample code for SpreadsheetGear in Visual Studio Code on Windows:**
-  *   [SpreadsheetGearExplorerSamples_WPF](/SpreadsheetGearExplorerSamples_WPF) - Contains C# sample code for WPF.
-  *   [SpreadsheetGearExplorerSamples_WindowsForms](/SpreadsheetGearExplorerSamples_WindowsForms) - Contains C# sample code for Windows Forms.
+  *   [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF.
+  *   [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
 * **Sample code for SpreadsheetGear in Visual Studio Code on Windows, Linux and MacOS:**
-  *   [SpreadsheetGearExplorerSamples_Web](/SpreadsheetGearExplorerSamples_Web) - Contains sample code for ASP.NET Core Razor Pages.
+  *   [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages.
   *   SpreadsheetGearSampleCode_JupyterCSharp - Contains Jupyter notebook C# sample code
   *   SpreadsheetGearSampleCode_JupyterPython - Contains Jupyter notebook Python sample code
 
@@ -53,10 +53,10 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSa
 **2. Your local SpreadsheetGearExplorerSamples_VSCode folder will contain these workspace (.code-workspace) files:**
 
 - **Sample code workspaces for Windows only**
-  - SpreadsheetGearExplorer_WindowsForms.code-workspace
-  - SpreadsheetGearExplorer_WPF.code-workspace
+  - Samples_WindowsForms.code-workspace
+  - Samples_WPF.code-workspace
 - **Sample code workspaces for Windows, Linux and MacOS**
-  - SpreadsheetGearExplorer_Web.code-workspace
+  - Samples_Web.code-workspace
   - SpreadsheetGearSampleCode_JupyterCSharp.code-workspace
   - SpreadsheetGearSampleCode_JupyterPython.code-workspace
 
