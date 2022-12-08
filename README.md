@@ -51,7 +51,7 @@ Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSamples_VSCode.git
 ```
     
-**2. After cloning this repo, you will find these workspace files in your local SpreadsheetGearExplorerSamples folder:**
+**2. You will find these workspace files in your local SpreadsheetGearExplorerSamples_VSCode folder:**
 
 - **Sample code workspaces for Windows only**
   - SpreadsheetGearExplorer_WindowsForms.code-workspace
