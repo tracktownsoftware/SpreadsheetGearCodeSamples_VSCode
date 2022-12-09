@@ -6,10 +6,10 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 
 [Visual Studio Code (VSCode)](https://code.visualstudio.com/) is a source code editor for Windows, Linux and MacOS. This repository is based on a fork of [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples) which was developed using Visual Studio 2022 on Windows. Code samples have been simplified for VSCode with one solution file (.sln) per folder, only one possible startup project (.csproj) per solution, and VSCode workspace (.code-workspace) files.
 
-* **Sample code for SpreadsheetGear in Visual Studio Code on Windows:**
+* **SpreadsheetGear code samples in Visual Studio Code on Windows:**
   *   [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF.
   *   [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
-* **Sample code for SpreadsheetGear in Visual Studio Code on Windows, Linux and MacOS:**
+* **SpreadsheetGear code samples in Visual Studio Code on Windows, Linux and MacOS:**
   *   [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages.
   *   Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
   *   Samples_JupyterPython - Contains Jupyter notebook Python sample code
@@ -20,7 +20,7 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 * [Open and run SpreadsheetGear sample code in Visual Studio Code](#open-and-run-spreadsheetgear-sample-code-in-visual-studio-code)
 
 ## SpreadsheetGear Nuget packages used in these demos
-The sample code in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
+The code samples in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta)** - the primary SpreadsheetGear library that provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more.
 *   **[SpreadsheetGear for Windows](https://www.nuget.org/packages/SpreadsheetGear.Windows/9.1.19-beta)** - builds on SpreadsheetGear Engine for .NET to add powerful Excel-compatible image rendering, viewing, editing, formatting, calculating, filtering, sorting, charting, printing and more to your Windows Forms and WPF applications with the easy-to-use WorkbookView and FormulaBar controls.
 
