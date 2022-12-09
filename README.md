@@ -17,7 +17,7 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 ## Get Started ##
 * [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
 * [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
-* [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-sample-code-in-visual-studio-code)
+* [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
 
 ## SpreadsheetGear Nuget packages used in these demos
 The code samples in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
