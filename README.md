@@ -44,7 +44,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 * work-in-progress
 
 ## Open and run SpreadsheetGear sample code in Visual Studio Code
-**1. Clone this repo into a folder on your computer**
+**1. Clone this repo into your target folder**
 
 ```
 Windows command line example:
