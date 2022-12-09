@@ -28,12 +28,12 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 ## Visual Studio Code installation
 **For Windows:**
+* Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
 * Install [Visual Studio Code](https://code.visualstudio.com/)
 * Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
   * The .NET Extension pack includes:
     * [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
     * Jupyter Notebooks
-* Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (SpreadsheetGear requires .NET 6.0 or greater)
 * Install [Git for Windows](https://git-scm.com/download/win)
 * *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
