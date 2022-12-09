@@ -17,7 +17,7 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 ## Get Started ##
 * [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
 * [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
-* [Open and run SpreadsheetGear sample code in Visual Studio Code](#open-and-run-spreadsheetgear-sample-code-in-visual-studio-code)
+* [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-sample-code-in-visual-studio-code)
 
 ## SpreadsheetGear Nuget packages used in these demos
 The code samples in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
@@ -43,7 +43,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 **For Linux:**
 * work-in-progress
 
-## Open and run SpreadsheetGear sample code in Visual Studio Code
+## Open and run SpreadsheetGear code samples in Visual Studio Code
 **1. Clone this repo into your target folder**
 
 ```
@@ -52,12 +52,12 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSa
 ```
 **2. Your local SpreadsheetGearExplorerSamples_VSCode folder will contain these workspace (.code-workspace) files:**
 
-- **Sample code workspaces for Windows only**
+- **Code sample workspaces for Windows only**
   - Samples_WindowsForms.code-workspace
   - Samples_WPF.code-workspace
-- **Sample code workspaces for Windows, Linux and MacOS**
+- **Code sample workspaces for Windows, Linux and MacOS**
   - Samples_Web.code-workspace
   - Samples_JupyterCSharp.code-workspace
   - Samples_JupyterPython.code-workspace
 
-**3. Run Visual Studio Code and select "File | Open workspace from File..." to open the sample code workspace you want to see**
+**3. Run Visual Studio Code and select "File | Open workspace from File..." to open the code sample workspace you want to see**
