@@ -48,9 +48,9 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 ```
 Windows command line example:
-C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearExplorerSamples_VSCode.git
+C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode.git
 ```
-**2. Your local SpreadsheetGearExplorerSamples_VSCode folder will contain these workspace (.code-workspace) files:**
+**2. Your local SpreadsheetGearCodeSamples_VSCode folder will contain these workspace (.code-workspace) files:**
 
 - **Code sample workspaces for Windows only**
   - Samples_WindowsForms.code-workspace
