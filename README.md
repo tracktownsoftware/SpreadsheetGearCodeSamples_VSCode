@@ -16,9 +16,9 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 * Samples_JupyterPython - Contains Jupyter notebook Python sample code
 
 # Get Started #
-  1.  [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
-  2.  [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
-  3.  [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
+  1. [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
+  2. [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
+  3. [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
 
 # SpreadsheetGear Nuget packages used in these demos
 The code samples in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
@@ -29,11 +29,11 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 # Visual Studio Code installation
 **For Windows:**
-  1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
-  2. Install [Visual Studio Code](https://code.visualstudio.com/)
-  3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
-  4. Install [Git for Windows](https://git-scm.com/download/win)
-  5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
+2. Install [Visual Studio Code](https://code.visualstudio.com/)
+3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
+4. Install [Git for Windows](https://git-scm.com/download/win)
+5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 **For MacOS:**
 * work-in-progress
