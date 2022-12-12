@@ -7,13 +7,13 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 [Visual Studio Code (VSCode)](https://code.visualstudio.com/) is a source code editor for Windows, Linux and MacOS. This repository is based on a fork of [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples) which was developed using Visual Studio 2022 on Windows. Code samples have been simplified for VSCode with one solution file (.sln) per folder, only one possible startup project (.csproj) per solution, and VSCode workspace (.code-workspace) files.
 
 **SpreadsheetGear code samples in Visual Studio Code on Windows only:**
-  *   [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF.
-  *   [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
+* [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF.
+* [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
 
 **SpreadsheetGear code samples in Visual Studio Code on Windows, Linux and MacOS:**
-  *   [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages.
-  *   Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
-  *   Samples_JupyterPython - Contains Jupyter notebook Python sample code
+* [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages.
+* Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
+* Samples_JupyterPython - Contains Jupyter notebook Python sample code
 
 # Get Started #
   1.  [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
