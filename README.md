@@ -41,20 +41,17 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 * work-in-progress
 
 # Open and run SpreadsheetGear code samples in Visual Studio Code
-**1. Clone this repo into your target folder**
+1. **Clone this repo into your target folder**
 
 ```
 Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode.git
 ```
-**2. Run Visual Studio Code and select "File | Open workspace from File..." to open a sample workspace in step 3**
+2. **Run Visual Studio Code and select "File | Open workspace from File..." to open a sample workspace file from your local SpreadsheetGearCodeSamples_VSCode folder:**
+    - Samples_WindowsForms.code-workspace
+    - Samples_WPF.code-workspace
+    - Samples_Web.code-workspace
+    - Samples_JupyterCSharp.code-workspace
+    - Samples_JupyterPython.code-workspace
 
-**3. Your local SpreadsheetGearCodeSamples_VSCode folder will contain these sample workspace files:**
-
-  - Samples_WindowsForms.code-workspace
-  - Samples_WPF.code-workspace
-  - Samples_Web.code-workspace
-  - Samples_JupyterCSharp.code-workspace
-  - Samples_JupyterPython.code-workspace
-
-**4. For additional instructions specific to a sample workspace, click on its link in step 3**
+3. **For additional instructions specific to a sample workspace, click on its link in Step 2**
