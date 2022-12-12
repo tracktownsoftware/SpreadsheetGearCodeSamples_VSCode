@@ -7,8 +7,8 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 [Visual Studio Code (VSCode)](https://code.visualstudio.com/) is a source code editor for Windows, Linux and MacOS. This repository is based on a fork of [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples) which was developed using Visual Studio 2022 on Windows. Code samples have been simplified for VSCode with one solution file (.sln) per folder, only one possible startup project (.csproj) per solution, and VSCode workspace (.code-workspace) files.
 
 **SpreadsheetGear code samples in Visual Studio Code on Windows only:**
-*   [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF.
-*   [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
+  *   [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF.
+  *   [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms.
 
 **SpreadsheetGear code samples in Visual Studio Code on Windows, Linux and MacOS:**
   *   [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages.
@@ -16,9 +16,9 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
   *   Samples_JupyterPython - Contains Jupyter notebook Python sample code
 
 # Get Started #
-* [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
-* [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
-* [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
+  1.  [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
+  2.  [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
+  3.  [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
 
 # SpreadsheetGear Nuget packages used in these demos
 The code samples in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
@@ -29,11 +29,11 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 # Visual Studio Code installation
 **For Windows:**
-1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
-2. Install [Visual Studio Code](https://code.visualstudio.com/)
-3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
-4. Install [Git for Windows](https://git-scm.com/download/win)
-5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
+  2. Install [Visual Studio Code](https://code.visualstudio.com/)
+  3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
+  4. Install [Git for Windows](https://git-scm.com/download/win)
+  5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 **For MacOS:**
 * work-in-progress
