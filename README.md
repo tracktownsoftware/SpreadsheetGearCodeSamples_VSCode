@@ -48,15 +48,13 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode.git
 ```
-**2. Your local SpreadsheetGearCodeSamples_VSCode folder will contain these workspace (.code-workspace) files:**
+**2. Run Visual Studio Code and select "File | Open workspace from File..." to open a code sample workspace**
 
-- **Code sample workspaces for Windows only**
+**3. Your local SpreadsheetGearCodeSamples_VSCode folder will contain these workspace (.code-workspace) files:**
+
   - Samples_WindowsForms.code-workspace
   - Samples_WPF.code-workspace
-  
-- **Code sample workspaces for Windows, Linux and MacOS**
   - Samples_Web.code-workspace
   - Samples_JupyterCSharp.code-workspace
   - Samples_JupyterPython.code-workspace
 
-**3. Run Visual Studio Code and select "File | Open workspace from File..." to open a code sample workspace**
