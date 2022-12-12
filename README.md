@@ -58,3 +58,4 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
   - Samples_JupyterCSharp.code-workspace
   - Samples_JupyterPython.code-workspace
 
+**4. For additional instructions specific to a sample workspace, click on its link in step 3**
