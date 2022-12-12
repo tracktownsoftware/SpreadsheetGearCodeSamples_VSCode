@@ -47,7 +47,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode.git
 ```
-**2. Run Visual Studio Code and select "File | Open workspace from File..." to open a sample workspace listed in step 3**
+**2. Run Visual Studio Code and select "File | Open workspace from File..." to open a sample workspace in step 3**
 
 **3. Your local SpreadsheetGearCodeSamples_VSCode folder will contain these sample workspace files:**
 
