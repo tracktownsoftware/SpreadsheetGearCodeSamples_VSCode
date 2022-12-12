@@ -29,11 +29,11 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 # Visual Studio Code installation
 **For Windows:**
-* Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
-* Install [Visual Studio Code](https://code.visualstudio.com/)
-* Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
-* Install [Git for Windows](https://git-scm.com/download/win)
-* *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
+2. Install [Visual Studio Code](https://code.visualstudio.com/)
+3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
+4. Install [Git for Windows](https://git-scm.com/download/win)
+5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 **For MacOS:**
 * work-in-progress
@@ -53,9 +53,10 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
 - **Code sample workspaces for Windows only**
   - Samples_WindowsForms.code-workspace
   - Samples_WPF.code-workspace
+  
 - **Code sample workspaces for Windows, Linux and MacOS**
   - Samples_Web.code-workspace
   - Samples_JupyterCSharp.code-workspace
   - Samples_JupyterPython.code-workspace
 
-**3. Run Visual Studio Code and select "File | Open workspace from File..." to open the code sample workspace you want to see**
+**3. Run Visual Studio Code and select "File | Open workspace from File..." to open a code sample workspace**
