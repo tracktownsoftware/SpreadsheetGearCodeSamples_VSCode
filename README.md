@@ -29,7 +29,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 # Visual Studio Code installation
 **For Windows:**
 1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) 
-    - Choose .NET 7.0 (.NET 7.0 is required by some tools in .NET Extension Pack for Visual Studio Code)
+    - Choose .NET 7.0 which is required by some tools in .NET Extension Pack for Visual Studio Code
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
