@@ -32,7 +32,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
     - Choose .NET 7.0 which will support the .NET 6.0 code samples. The Jupyter Notebook code samples require .NET 7.0 to support the Polygot Notebook extension (an extension installed by the .NET Extension Pack in step 3 below).
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
-    - At the finish of installing .NET Extension Pack you might see a "Install .NET SDK" button. Ignore this as .NET SDK was already installed in the above step 1.
+    - At the finish of installing .NET Extension Pack you might see an "Install .NET SDK" prompt. Ignore this as .NET SDK was already installed in the above step 1.
 4. Install [Git for Windows](https://git-scm.com/download/win)
 5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
