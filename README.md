@@ -30,7 +30,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 **For Windows:**
 1. From [Download .NET for Windows](https://dotnet.microsoft.com/en-us/download)
     - Install the .NET 6.0 SDK - *required for SpreadsheetGear code samples*
-    - Install the .NET 7.0 SDK - *required by the .NET Extension Pack for Visual Studio Code*
+    - Install the .NET 7.0 SDK - *required by .NET Extension Pack for Visual Studio Code*
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
