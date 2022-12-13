@@ -5,3 +5,5 @@
   **image here**
   
   *After opening Samples_WPF.code-workspace in Visual Studio Code*
+  
+  3. more text here
