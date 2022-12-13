@@ -5,7 +5,7 @@
 
   **image here**
   
-  *After opening Samples_Web.code-workspace:
+  After opening Samples_Web.code-workspace:
   
 
 
