@@ -1,11 +1,9 @@
-# Open and run SpreadsheetGearExplorerSamples_WPF
+## Open and run Samples_WPF in Visual Studio Code
 
-## Open the SpreadsheetGearExplorerSamples_WPF folder in Visual Studio Code
+  - Run Visual Studio Code and select "File | Open workspace from File...".
+  - Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and select Select **Samples_WPF.code-workspace** to open it.
+  - Select Samples_WPF.code-workspace in Visual Studio Code you should see a Window like this below:
 
-Option 1: You can use command "code ." in a Command or Terminal window to open the current folder
-```
-c:\>
-c:\>cd C:\temp\SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_WPF
-C:\temp\SpreadsheetGearExplorerSamples_VSCode\SpreadsheetGearExplorerSamples_WPF>code . 
-```
-Option 2: Run Visual Studio Code. Make sure all files and folders you may have open in Visual Studio Code are closed. Use main menu "File|Open Folder..." to open the SpreadsheetGearExplorerSamples_WPF folder.
+  **image here**
+  
+  *After opening Samples_WPF.code-workspace in Visual Studio Code*
