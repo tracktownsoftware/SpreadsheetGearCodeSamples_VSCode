@@ -29,7 +29,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 # Visual Studio Code installation
 **For Windows:**
 1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) 
-    - Choose .NET 7.0 which will support the .NET 6.0 code samples. The Jupyter Notebook code samples require .NET 7.0 to support the Polygot Notebook extension (an extension installed by the .NET Extension Pack in step 3 below).
+    - Choose .NET 7.0 which will support SpreadsheetGear .NET 6.0 code samples. SpreadsheetGear Jupyter Notebook code samples require .NET 7.0 to install the Polygot Notebook extension (an extension installed by the .NET Extension Pack in step 3 below).
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
