@@ -5,7 +5,8 @@
   - Select Samples_WPF.code-workspace in Visual Studio Code you should see a Window like this below:
 
   **image here**
-  *AFter opening Samples_WPF.code-workspace in Visual Studio Code**
+  
+  *After opening Samples_WPF.code-workspace in Visual Studio Code*
   
 
 
