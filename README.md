@@ -28,9 +28,9 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 # Visual Studio Code installation
 **For Windows:**
-1. From [Download .NET for Windows](https://dotnet.microsoft.com/en-us/download) install the .NET SDK for both .NET 6.0 and .NET 7.0
-    - SpreadsheetGear code samples require .NET 6.0
-    - Some tools in .NET Extension Pack for Visual Studio Code require .NET 7.0
+1. From [Download .NET for Windows](https://dotnet.microsoft.com/en-us/download)
+    - Install .NET 6.0 - *required by SpreadsheetGear code samples*
+    - Install .NET 7.0 - *required by tools in .NET Extension Pack for Visual Studio Code*
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
