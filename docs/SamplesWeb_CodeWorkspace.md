@@ -2,7 +2,7 @@
 
   - Run Visual Studio Code and select "File | Open workspace from File...".
   - Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and select Select **Samples_Web.code-workspace** to open it.
-  - Select Samples_WPF.code-workspace in Visual Studio Code you should see a Window like this below:
+  - Select Samples_Web.code-workspace in Visual Studio Code you should see a Window like this below:
 
   **image here**
   
