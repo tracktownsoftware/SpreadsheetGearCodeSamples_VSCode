@@ -8,8 +8,8 @@ This repository contains SpreadsheetGear code samples for .NET6 WPF, .NET6 Windo
 
 **These SpreadsheetGear code samples will run in Visual Studio Code on Windows, MacOS and Linux unless *"Windows only"* is indicated.**
 
-* [Samples_WPF](/Samples_WPF) - Contains C# sample code for WPF ***(Windows only)***
-* [Samples_WindowsForms](/Samples_WindowsForms) - Contains C# sample code for Windows Forms ***(Windows only)***
+* [Samples_WPF](/Samples_WPF) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
+* [Samples_WindowsForms](/Samples_WindowsForms) - Contains .NET 6.0 C# sample code for Windows Forms ***(Windows only)***
 * [Samples_Web](/Samples_Web) - Contains sample code for ASP.NET Core Razor Pages
 * Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
 * Samples_JupyterPython - Contains Jupyter notebook Python sample code
@@ -28,7 +28,8 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 # Visual Studio Code installation
 **For Windows:**
-1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version .NET 6.0 or greater will work)
+1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download) 
+    - Install .NET 7.0 which will support the .NET 6 code samples. The Jupyter Notebook samples require .NET 7.0 to support the Polygot Notebook extension (an extension installed by the .NET Extension Pack in step 3 below).
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
 4. Install [Git for Windows](https://git-scm.com/download/win)
