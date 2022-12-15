@@ -15,6 +15,6 @@
 7. **Run the WPF_Samples application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
 8. You should see the WPF_Samples "WPF Explorer" application:
 
-![Image](WPFCodeSamplesExplorer.jpg)
+![Image](WPFCodeSamplesExplorer_v2.jpg)
 
 9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then launch it again to open Samples_WPF.code-workspace.
