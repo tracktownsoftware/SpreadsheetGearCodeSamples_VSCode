@@ -12,8 +12,8 @@
  
 ![Image](WPFCodeExplorerUpdated.jpg)
 
-7. **Run the WPF_Samples application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
-8. You should see the WPF_Samples "WPF Explorer" application:
+7. **Run the Samples_WPF application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
+8. You should see the Samples_WPF "WPF Explorer" application:
 
 ![Image](WPFCodeSamplesExplorer_v2.jpg)
 
