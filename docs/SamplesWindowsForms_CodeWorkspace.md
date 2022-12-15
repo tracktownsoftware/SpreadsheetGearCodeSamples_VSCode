@@ -12,8 +12,8 @@
  
 ![Image](WinFormCodeExplorerUpdated.jpg)
 
-7. **Run the WindowsForms_Samples application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
-8. You should see the WindowsForms_Samples "Windows Forms Explorer" application:
+7. **Run the Samples_WindowsForms application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
+8. You should see the Samples_WindowsForms "Windows Forms Explorer" application:
 
 ![Image](WinFormCodeSamplesExplorer.jpg)
 
