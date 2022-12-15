@@ -16,3 +16,5 @@
 8. You should see the WPF_Samples "WPF Explorer" application:
 
 ![Image](WPFCodeSamplesExplorer.jpg)
+
+9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then launch it again to open Samples_WPF.code-workspace.
