@@ -52,7 +52,7 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
 ```
 2. **Run Visual Studio Code and select "File | Open workspace from File..." to open a code workspace file (.code-workspace) from your local SpreadsheetGearCodeSamples_VSCode folder:**
     - Samples_WindowsForms.code-workspace
-    - [Samples_WPF.code-workspace](docs/SamplesWPF_CodeWorkspace.md)
+    - **[Samples_WPF.code-workspace](docs/SamplesWPF_CodeWorkspace.md)**
     - Samples_Web.code-workspace
     - Samples_JupyterCSharp.code-workspace
     - Samples_JupyterPython.code-workspace
