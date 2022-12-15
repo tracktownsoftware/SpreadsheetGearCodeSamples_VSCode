@@ -1,6 +1,7 @@
 ## Open and run Samples_WPF in Visual Studio Code
 1. Run Visual Studio Code and select "File | Open workspace from File...".
 2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WPF.code-workspace**
+3. You should see Samples_WPF.code-workspace open in VSCode:
 
 ![Image](WPFCodeSamplesFirstOpen_v2.jpg)
 
