@@ -1,7 +1,7 @@
-## Open and run Samples_WinForms in Visual Studio Code
+## Open and run Samples_WindowsForms in Visual Studio Code
 1. Run Visual Studio Code and select "File | Open workspace from File...".
-2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WinForms.code-workspace**
-3. You should see Samples_WinForms.code-workspace open in Visual Studio Code (VSCode):
+2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WindowsForms.code-workspace**
+3. You should see Samples_WindowsForms.code-workspace open in Visual Studio Code (VSCode):
 
 ![Image](WinFormCodeSamplesFirstOpen.jpg)
 
@@ -12,8 +12,8 @@
  
 ![Image](WinFormCodeExplorerUpdated.jpg)
 
-7. **Run the WinForms_Samples application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
-8. You should see the WinForms_Samples "Windows Forms Explorer" application:
+7. **Run the WindowsForms_Samples application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
+8. You should see the WindowsForms_Samples "Windows Forms Explorer" application:
 
 ![Image](WinFormCodeSamplesExplorer.jpg)
 
