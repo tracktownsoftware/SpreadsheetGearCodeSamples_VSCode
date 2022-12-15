@@ -17,4 +17,4 @@
 
 ![Image](WinFormCodeSamplesExplorer.jpg)
 
-9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_WPF.code-workspace.
+9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_WindowsForms.code-workspace.
