@@ -44,7 +44,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 * work-in-progress
 
 # Open and run SpreadsheetGear code samples in Visual Studio Code
-1. **Clone this repo into your target folder**
+1. **Clone this repo into your target folder.**
 
 ```
 Windows command line example:
@@ -57,4 +57,4 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
     - Samples_JupyterCSharp.code-workspace
     - Samples_JupyterPython.code-workspace
 
-3. **For additional instructions specific to a code workspace, click on its link in Step 2 above**
+3. **For additional instructions specific to a code workspace, click on its link in Step 2 above.**
