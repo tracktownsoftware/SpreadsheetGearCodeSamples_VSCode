@@ -3,7 +3,7 @@
 2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WPF.code-workspace**
 3. You should see Samples_WPF.code-workspace open in VSCode:
 
-![Image](WPFCodeSamplesFirstOpen_v2.jpg)
+![Image](WPFCodeSamplesFirstOpen_v3.jpg)
 
 3. Show the VSCode Explorer by clicking its icon in the upper left (***A in the above image***)
 4. You should see "Notifications" popups in the lower right. If you don't see them click the Notifications bell icon (***C in the above image***)
