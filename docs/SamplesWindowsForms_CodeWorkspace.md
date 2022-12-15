@@ -1,4 +1,3 @@
-[Return to SpreadsheetGearCodeSamples_VSCode README.md](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode#readme)
 ## Open and run Samples_WindowsForms in Visual Studio Code
 1. Run Visual Studio Code and select "File | Open workspace from File...".
 2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WindowsForms.code-workspace**
