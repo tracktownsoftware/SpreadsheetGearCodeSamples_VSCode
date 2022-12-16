@@ -3,7 +3,7 @@
 2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_Web.code-workspace**
 3. You should see Samples_Web.code-workspace open in Visual Studio Code (VSCode):
 
-![Image](WebCodeSamplesFirstOpen.jpg)
+![Image](WebCodeSamplesFirstOpen_v2.jpg)
 
 3. Show the VSCode Explorer by clicking its icon in the upper left (***A in the above image***)
 4. You should see "Notifications" pop-ups in the lower right. If you don't see them click the Notifications bell icon (***C in the above image***)
