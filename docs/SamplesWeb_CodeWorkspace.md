@@ -20,6 +20,7 @@
 ![Image](WebCodeSamplesHttpsSetting.jpg)
 
 9. Here is the Samples_Web "Web Explorer" application using https.
+
 ![Image](WebCodeSamplesExplorerHttps.jpg)
 
 10. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_Web.code-workspace.
