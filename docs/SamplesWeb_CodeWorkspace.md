@@ -13,11 +13,16 @@
 ![Image](WebCodeExplorerUpdated.jpg)
 
 7. **Run the Samples_Web application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
-8. You should see the Samples_Web "Web Explorer" application:
+8. You will see the Samples_Web "Web Explorer" application, but note that it uses http protocol. To use https protocol add this line to your launch.json file in the .vscode folder:
+```
+"launchSettingsProfile": "https",
+```
+![Image](WebCodeSamplesHttpsSetting.jpg)
 
-![Image](WebCodeSamplesExplorer.jpg)
+9. Here is the Samples_Web "Web Explorer" application using https.
+![Image](WebCodeSamplesExplorerHttps.jpg)
 
-9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_Web.code-workspace.
+10. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_Web.code-workspace.
 
 
 
