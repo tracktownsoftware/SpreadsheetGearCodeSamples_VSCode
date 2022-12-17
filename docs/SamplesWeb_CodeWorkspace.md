@@ -13,7 +13,7 @@
 ![Image](WebCodeExplorerUpdated.jpg)
 
 7. **Run the Samples_Web application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
-8. You should see the Samples_Web "WPF Explorer" application:
+8. You should see the Samples_Web "Web Explorer" application:
 
 ![Image](WebCodeSamplesExplorer.jpg)
 
