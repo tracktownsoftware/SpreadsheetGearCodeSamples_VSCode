@@ -1,6 +1,7 @@
 # Get Started #
   1. [SpreadsheetGear Nuget packages used in these demos](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode#get-started)
   2. [Install Visual Studio Code on Windows, Linux or MacOS](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode#visual-studio-code-installation)
+  3. Use Git to clone this repository
 
 # Open and run Samples_Web in Visual Studio Code #
 1. Run Visual Studio Code and select "File | Open workspace from File...".
