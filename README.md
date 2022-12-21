@@ -8,11 +8,12 @@ This repository contains [SpreadsheetGear](https://www.spreadsheetgear.com/) cod
 
 **These SpreadsheetGear code samples will run in Visual Studio Code on Windows, MacOS and Linux unless *"Windows only"* is indicated.**
 
-* [Samples_Web](docs/SamplesWeb_CodeWorkspace.md) - Contains sample code for ASP.NET Core Razor Pages
+* [Samples_WebCSharp](docs/SamplesWebCSharp.md) - Contains C# sample code in a ASP.NET Core web app
+* [Samples_WebPython](docs/SamplesWebCSharp.md) - Contains Python sample code in a Python and Flask web app
 * Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
 * Samples_JupyterPython - Contains Jupyter notebook Python sample code
-* [Samples_WindowsForms](docs/SamplesWindowsForms_CodeWorkspace.md) - Contains .NET 6.0 C# sample code for Windows Forms ***(Windows only)***
-* [Samples_WPF](docs/SamplesWPF_CodeWorkspace.md) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
+* [Samples_WindowsForms](docs/SamplesWindowsForms.md) - Contains .NET 6.0 C# sample code for Windows Forms ***(Windows only)***
+* [Samples_WindowsWPF](docs/SamplesWindowsWPF.md) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
 
 # Get Started #
   1. [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
@@ -51,11 +52,11 @@ Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode.git
 ```
 2. Run Visual Studio Code and select "File | Open workspace from File..." to open a code workspace file (.code-workspace) from your local SpreadsheetGearCodeSamples_VSCode folder:
-    - **[Samples_Web.code-workspace](docs/SamplesWeb_CodeWorkspace.md)**
+    - **[Samples_Web.code-workspace](docs/SamplesWebCSharp.md)**
     - Samples_JupyterCSharp.code-workspace
     - Samples_JupyterPython.code-workspace
-    - **[Samples_WindowsForms.code-workspace](docs/SamplesWindowsForms_CodeWorkspace.md)**
-    - **[Samples_WPF.code-workspace](docs/SamplesWPF_CodeWorkspace.md)**
+    - **[Samples_WindowsForms.code-workspace](docs/SamplesWindowsForms.md)**
+    - **[Samples_WPF.code-workspace](docs/SamplesWindowsWPF.md)**
 
 3. **For additional instructions specific to a code workspace, click on its link in Step 2 above.**
 
