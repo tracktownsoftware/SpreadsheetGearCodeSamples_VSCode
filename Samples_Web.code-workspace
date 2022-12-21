@@ -1,11 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "Samples_Web"
+			"path": "Samples_WebCSharp"
 		},
-		{
-			"path": "SamplesLibrary"
-		}
 	],
 	"settings": {}
 }

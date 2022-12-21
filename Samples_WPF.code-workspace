@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "Samples_WPF"
+			"path": "Samples_Windows/Samples_WPF"
 		},
 		{
-			"path": "SamplesLibrary"
+			"path": "Samples_Windows/SamplesLibrary"
 		}
 	],
 	"settings": {}

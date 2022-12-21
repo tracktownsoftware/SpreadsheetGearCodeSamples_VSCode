@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "Samples_WindowsForms"
+			"path": "Samples_Windows/Samples_WindowsForms"
 		},
 		{
-			"path": "SamplesLibrary"
+			"path": "Samples_Windows/SamplesLibrary"
 		}
 	],
 	"settings": {}
