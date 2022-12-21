@@ -52,9 +52,9 @@ Windows command line example:
 C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode.git
 ```
 2. Run Visual Studio Code and select "File | Open workspace from File..." to open a code workspace file (.code-workspace) from your local SpreadsheetGearCodeSamples_VSCode folder:
-    - **[Samples_Web.code-workspace](docs/Samples_WebCSharp.md)**
+    - **[Samples_WebCSharp.code-workspace](docs/Samples_WebCSharp.md)**
+    - Samples_WebPython.code-workspace
     - Samples_JupyterCSharp.code-workspace
-    - Samples_JupyterPython.code-workspace
     - Samples_JupyterPython.code-workspace
     - **[Samples_WindowsForms.code-workspace](docs/Samples_WindowsForms.md)**
     - **[Samples_WindowsWPF.code-workspace](docs/Samples_WindowsWPF.md)**
