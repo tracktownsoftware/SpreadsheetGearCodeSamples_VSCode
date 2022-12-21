@@ -9,9 +9,9 @@ This repository contains [SpreadsheetGear](https://www.spreadsheetgear.com/) cod
 **These SpreadsheetGear code samples will run in Visual Studio Code on Windows, MacOS and Linux unless *"Windows only"* is indicated.**
 
 * [Samples_WebCSharp](docs/Samples_WebCSharp.md) - Contains C# sample code in a ASP.NET Core web app
-* Samples_WebPython - Contains Python sample code in a Python and Flask web app
-* Samples_JupyterCSharp - Contains Jupyter notebook C# sample code
-* Samples_JupyterPython - Contains Jupyter notebook Python sample code
+* Samples_WebPython - Contains Python 3 sample code in a Python and Flask web app
+* Samples_JupyterCSharp - Contains .NET 6.0 C# sample code in Jupyter notebooks
+* Samples_JupyterPython - Contains Python 3 sample code in Jupyter notebooks
 * [Samples_WindowsForms](docs/Samples_WindowsForms.md) - Contains .NET 6.0 C# sample code for Windows Forms ***(Windows only)***
 * [Samples_WindowsWPF](docs/Samples_WindowsWPF.md) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
 
