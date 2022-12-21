@@ -3,10 +3,10 @@
   2. [Install Visual Studio Code on Windows, Linux or MacOS](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_VSCode#visual-studio-code-installation)
   3. Use Git to clone this repository
 
-# Open and run Samples_WPF in Visual Studio Code #
+# Open and run Samples_WindowsWPF in Visual Studio Code #
 1. Run Visual Studio Code and select "File | Open workspace from File...".
-2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WPF.code-workspace**
-3. You should see Samples_WPF.code-workspace open in Visual Studio Code (VSCode):
+2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_WindowsWPF.code-workspace**
+3. You should see Samples_WindowsWPF.code-workspace open in Visual Studio Code (VSCode):
 
 ![Image](images/WPFCodeSamplesFirstOpen_v3.jpg)
 
@@ -17,9 +17,9 @@
  
 ![Image](images/WPFCodeExplorerUpdated.jpg)
 
-7. **Run the Samples_WPF application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
-8. You should see the Samples_WPF "WPF Explorer" application:
+7. **Run the Samples_WindowsWPF application by pressing F5 or using the VSCode menu "Run | Start Debugging"**
+8. You should see the Samples_WindowsWPF "WPF Explorer" application:
 
 ![Image](images/WPFCodeSamplesExplorer_v2.jpg)
 
-9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_WPF.code-workspace.
+9. Any remaining Notifications warnings should go away if you close Visual Studio Code and then start it again and re-open Samples_WindowsWPF.code-workspace.
