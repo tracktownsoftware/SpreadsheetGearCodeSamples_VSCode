@@ -57,7 +57,7 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
     - Samples_JupyterPython.code-workspace
     - Samples_JupyterPython.code-workspace
     - **[Samples_WindowsForms.code-workspace](docs/Samples_WindowsForms.md)**
-    - **[Samples_WPF.code-workspace](docs/Samples_WindowsWPF.md)**
+    - **[Samples_WindowsWPF.code-workspace](docs/Samples_WindowsWPF.md)**
 
 3. **For additional instructions specific to a code workspace, click on its link in Step 2 above.**
 
