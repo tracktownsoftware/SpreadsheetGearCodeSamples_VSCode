@@ -37,7 +37,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
 4. Install [Git for Windows](https://git-scm.com/download/win)
 5. For Python code samples 
-    - Install [Python](https://www.python.org/)
+    - Install [Python](https://www.python.org/) or [Anaconda](https://www.anaconda.com/products/distribution) (Anaconda includes Python and popular Data Science tools)
     - Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for running SpreadsheetGear Python code samples in VSCode.
     
