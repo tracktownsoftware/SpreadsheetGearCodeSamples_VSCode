@@ -38,6 +38,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 4. Install [Git for Windows](https://git-scm.com/download/win)
 5. *For Python code samples* 
     - Install [Python](https://www.python.org/)
+    - Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 **For MacOS:**
 * work-in-progress
