@@ -27,7 +27,7 @@ The code samples in this repository demonstrates a wide variety of APIs and feat
 
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their diffences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
-# Visual Studio Code installation
+# Visual Studio Code and Python installation
 **For Windows:**
 1. From [Download .NET for Windows](https://dotnet.microsoft.com/en-us/download)
     - Install the .NET 6.0 SDK - *required for SpreadsheetGear code samples*
