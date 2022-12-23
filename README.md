@@ -29,6 +29,8 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 
 # Visual Studio Code and Python installation
 
+*These instructions should work for Windows, MacOS and Linux*
+
 1. From [Download .NET](https://dotnet.microsoft.com/en-us/download)
     - Install the .NET 6.0 SDK - *required for SpreadsheetGear code samples*
     - Install the .NET 7.0 SDK - *required for .NET Extension Pack for Visual Studio Code*
