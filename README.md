@@ -35,7 +35,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
-4. Install [Git for Windows](https://git-scm.com/download/win)
+4. Install [Git version control](https://git-scm.com/download)
 5. For Python code samples 
     - Install [Python](https://www.python.org/) or [Anaconda](https://www.anaconda.com/products/distribution) (Anaconda includes Python and popular Data Science tools)
     - Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
