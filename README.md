@@ -36,7 +36,8 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
 4. Install [Git for Windows](https://git-scm.com/download/win)
-5. *Optional* - Install [GitLens to "Supercharge Git within VS Code"](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+5. *For Python code samples* 
+    - Install [Python](https://www.python.org/)
 
 **For MacOS:**
 * work-in-progress
