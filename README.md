@@ -36,9 +36,10 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
 4. Install [Git for Windows](https://git-scm.com/download/win)
-5. *For Python code samples* 
+5. For Python code samples 
     - Install [Python](https://www.python.org/)
     - Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    - *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for running SpreadsheetGear Python code samples in VSCode.
 
 **For MacOS:**
 * work-in-progress
