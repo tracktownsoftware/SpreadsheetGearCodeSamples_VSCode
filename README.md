@@ -28,8 +28,8 @@ The code samples in this repository demonstrates a wide variety of APIs and feat
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their diffences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
 # Visual Studio Code and Python installation
-**For Windows:**
-1. From [Download .NET for Windows](https://dotnet.microsoft.com/en-us/download)
+
+1. From [Download .NET](https://dotnet.microsoft.com/en-us/download)
     - Install the .NET 6.0 SDK - *required for SpreadsheetGear code samples*
     - Install the .NET 7.0 SDK - *required for .NET Extension Pack for Visual Studio Code*
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
@@ -40,12 +40,7 @@ Learn more about these products on our [Features Page](https://www.spreadsheetge
     - Install [Python](https://www.python.org/)
     - Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for running SpreadsheetGear Python code samples in VSCode.
-
-**For MacOS:**
-* work-in-progress
-
-**For Linux:**
-* work-in-progress
+    
 
 # Open and run SpreadsheetGear code samples in Visual Studio Code
 1. Clone this repo into your target folder.
