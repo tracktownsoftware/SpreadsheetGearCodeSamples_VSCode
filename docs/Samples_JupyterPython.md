@@ -4,7 +4,7 @@
 3. Use Git to clone this repository
 
 # Samples_JupyterPython notebooks #
-- [JupyterPython_HelloWorld.ipynb](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) - a simple SpreadsheetGear in Python code sample
+- [JupyterPython_HelloWorld.ipynb](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) - a simple Python SpreadsheetGear code sample
 - [PythonExcelToolsComparison.ipynb](../Samples_JupyterPython/PythonExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other Python Excel tools 
 
 *Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
