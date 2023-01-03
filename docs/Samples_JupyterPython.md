@@ -1,0 +1,44 @@
+# Get Started #
+1. [SpreadsheetGear Nuget packages used in these demos](../README.md#get-started)
+2. [Install Visual Studio Code and Python on Windows, Linux or MacOS](../README.md#visual-studio-code-installation)
+3. Use Git to clone this repository
+
+# Python Jupyter Notebooks in Samples_JupyterCSharp #
+- [JupyterPython_HelloWorld.ipynb](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb)
+- [PythonExcelToolsComparison.ipynb](../Samples_JupyterPython/PythonExcelToolsComparison.ipynb)
+
+*Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
+
+# Use Samples_JupyterPython notebooks interactively in VSCode #
+1. Run Visual Studio Code and select "File | Open workspace from File...".
+2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_JupyterPython.code-workspace**
+3. You should see Samples_JupyterPython.code-workspace open in Visual Studio Code (VS Code).
+4. Show the VSCode Explorer by clicking its icon in the upper left.
+5. Use VSCode explorer to double-click and open the Jupyter notebook you want to see.
+
+# Pythonnet makes it possible to use .NET6 SpreadsheetGear in Python code #
+
+Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. It allows Python code to interact with the CLR, and may also be used to embed Python into a .NET application.
+
+# What are Jupyter Notebooks? #
+
+A Jupyter Notebook is a document for creating and sharing live code, equations, visualizations, and text.
+
+The history of Jupyter Notebooks in Visual Studio Code:
+- In the beginning Jupyter Notebooks used a Python kernel and supported the Python language.
+- In 2019 Microsoft introduced an additional kernel, now called .NET Interactive kernel, that supports C#, F#, Powershell, Javascript, SQL, KQL, HTML and Mermaid.
+
+# How do you make a Jupyter notebook Python or .NET Interactive (C#)? #
+1. In VSCode add a new file with the ".ipynb" extension 
+2. Open the notebook in VSCode
+3. The active Jupyter notebook kernel will show in the upper right (A in the image below). Click on it if you want to change the kernel.
+4. After clicking the active kernel you should see other kernel options (B in the image below). If you want a Python notebook then select Python as the kernel.
+
+![Image](images/ChangeNotebookKernel.jpg)
+
+Links about Jupyter Python notebooks 
+- [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [pythonnet on pipy.org](https://pypi.org/project/pythonnet/)
+
+
+

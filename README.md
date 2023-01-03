@@ -11,7 +11,7 @@ This repository contains [SpreadsheetGear](https://www.spreadsheetgear.com/) cod
 * [Samples_WebCSharp](docs/Samples_WebCSharp.md) - Contains C# sample code in a ASP.NET Core web app
 * Samples_WebPython - Contains Python 3 sample code in a Python and Flask web app
 * [Samples_JupyterCSharp](docs/Samples_JupyterCSharp.md)  - Contains .NET 6.0 C# sample code in Jupyter notebooks
-* Samples_JupyterPython - Contains Python 3 sample code in Jupyter notebooks
+* [Samples_JupyterPython](docs/Samples_JupyterPython.md) - Contains Python 3 sample code in Jupyter notebooks
 * [Samples_WindowsForms](docs/Samples_WindowsForms.md) - Contains .NET 6.0 C# sample code for Windows Forms ***(Windows only)***
 * [Samples_WindowsWPF](docs/Samples_WindowsWPF.md) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
 
@@ -56,7 +56,7 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
     - **[Samples_WebCSharp.code-workspace](docs/Samples_WebCSharp.md)**
     - Samples_WebPython.code-workspace
     - **[Samples_JupyterCSharp.code-workspace](docs/Samples_JupyterCSharp.md)**
-    - Samples_JupyterPython.code-workspace
+    - **[Samples_JupyterPython.code-workspace](docs/Samples_JupyterPython.md)**
     - **[Samples_WindowsForms.code-workspace](docs/Samples_WindowsForms.md)**
     - **[Samples_WindowsWPF.code-workspace](docs/Samples_WindowsWPF.md)**
 
