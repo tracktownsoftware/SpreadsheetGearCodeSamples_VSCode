@@ -40,7 +40,7 @@ The history of Jupyter Notebooks in Visual Studio Code:
 
 ![Image](images/ChangeNotebookKernel.jpg)
 
-Useful links 
+## Useful links ##
 - [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 - [pythonnet on pipy.org](https://pypi.org/project/pythonnet/)
 - [Python.NET documentation](https://pythonnet.github.io/pythonnet/index.html)
