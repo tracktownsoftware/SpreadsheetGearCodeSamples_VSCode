@@ -3,9 +3,9 @@
   2. [Install Visual Studio Code on Windows, Linux or MacOS](../README.md#visual-studio-code-installation)
   3. Use Git to clone this repository
 
-# C# Jupyter Notebooks in Samples_JupyterCSharp #
-- [JupyterCSharp_HelloWorld.ipynb](../Samples_JupyterCSharp/JupyterCSharp_HelloWorld.ipynb)
-- [CSharpExcelToolsComparison.ipynb](../Samples_JupyterCSharp/CSharpExcelToolsComparison.ipynb)
+# Samples_JupyterCSharp notebooks#
+- [JupyterCSharp_HelloWorld.ipynb](../Samples_JupyterCSharp/JupyterCSharp_HelloWorld.ipynb) - a simple C# SpreadsheetGear code sample
+- [CSharpExcelToolsComparison.ipynb](../Samples_JupyterCSharp/CSharpExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other .NET Excel tools
 - [JupyterCSharp_Part1_Workbook.ipynb](../Samples_JupyterCSharp/JupyterCSharp_Part1_Workbook.ipynb)
 
 *Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
