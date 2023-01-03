@@ -33,7 +33,7 @@ Jupyter notebooks with C# code are known by different names
 - Another term is ".NET Interactive" notebook because notebooks with C# use the ".NET Interactive" Jupyter kernel.
 - The latest term is "Polygot" notebook. Microsoft renamed the Visual Studio Code extension to [Polygot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) from the former ".NET Interactive Notebooks" extension.
 
-# How do you make a Jupyter notebook Python or .NET Interactive (C#)? #
+# Make your Jupyter notebook Python or .NET Interactive (C#) #
 1. In VSCode add a new file with the ".ipynb" extension 
 2. Open the notebook in VSCode
 3. The active Jupyter notebook kernel will show in the upper right (A in the image below). Click on it if you want to change the kernel.
