@@ -3,12 +3,19 @@
   2. [Install Visual Studio Code on Windows, Linux or MacOS](../README.md##visual-studio-code-and-python-installation)
   3. Use Git to clone this repository
 
-# C# Jupyter Notebooks in this repo #
+# C# Jupyter Notebooks in Samples_JupyterCSharp #
 - [JupyterCSharp_HelloWorld.ipynb](../Samples_JupyterCSharp/JupyterCSharp_HelloWorld.ipynb)
 - [CSharpExcelToolsComparison.ipynb](../Samples_JupyterCSharp/CSharpExcelToolsComparison.ipynb)
 - [JupyterCSharp_Part1_Workbook.ipynb](../Samples_JupyterCSharp/JupyterCSharp_Part1_Workbook.ipynb)
 
 *Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
+
+# Open Samples_JupyterCSharp notebooks interactively in Visual Studio Code #
+1. Run Visual Studio Code and select "File | Open workspace from File...".
+2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_JupyterCSharp.code-workspace**
+3. You should see Samples_JupyterCSharp.code-workspace open in Visual Studio Code (VS Code).
+4. Show the VSCode Explorer by clicking its icon in the upper left.
+5. Using VSCode explorer double-click the Jupyter notebook you want to see.
 
 # What are Jupyter Notebooks? #
 
