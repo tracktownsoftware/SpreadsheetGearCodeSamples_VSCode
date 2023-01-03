@@ -27,7 +27,7 @@ A minor inconvenience: Python doesn't support Nuget package references which is 
 A Jupyter Notebook is a document for creating and sharing live code, equations, visualizations, and text.
 
 The history of Jupyter Notebooks in Visual Studio Code:
-- For years Visual Studio Code has supported Python Jupyter Notebooks and the Python language.
+- Visual Studio Code has long supported Python Jupyter Notebooks and the Python language.
 - In 2019 Microsoft introduced an additional Jupyter kernel, now called .NET Interactive kernel, that supports C#, F#, Powershell, Javascript, SQL, KQL, HTML and Mermaid.
 
 # Make your Jupyter notebook Python or .NET Interactive (C#) #
