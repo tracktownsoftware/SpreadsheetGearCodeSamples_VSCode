@@ -10,7 +10,7 @@
 
 *Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
 
-# Use Samples_JupyterCSharp notebooks interactively in VSCode #
+# Open Samples_JupyterCSharp notebooks interactively in VSCode #
 1. Run Visual Studio Code and select "File | Open workspace from File...".
 2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_JupyterCSharp.code-workspace**
 3. You should see Samples_JupyterCSharp.code-workspace open in Visual Studio Code (VS Code).
