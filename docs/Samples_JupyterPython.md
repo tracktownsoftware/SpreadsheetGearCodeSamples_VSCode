@@ -3,7 +3,7 @@
 2. [Install Visual Studio Code and Python on Windows, Linux or MacOS](../README.md#visual-studio-code-installation)
 3. Use Git to clone this repository
 
-# Python Jupyter Notebooks in Samples_JupyterCSharp #
+# Samples_JupyterPython notebooks#
 - [JupyterPython_HelloWorld.ipynb](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) - a simple SpreadsheetGear in Python code sample
 - [PythonExcelToolsComparison.ipynb](../Samples_JupyterPython/PythonExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other Python Excel tools 
 
