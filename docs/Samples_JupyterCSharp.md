@@ -15,7 +15,7 @@
 2. Navigate to your local **SpreadsheetGearCodeSamples_VSCode folder** and open **Samples_JupyterCSharp.code-workspace**
 3. You should see Samples_JupyterCSharp.code-workspace open in Visual Studio Code (VS Code).
 4. Show the VSCode Explorer by clicking its icon in the upper left.
-5. Using VSCode explorer double-click the Jupyter notebook you want to see.
+5. Use VSCode explorer to double-click the Jupyter notebook you want to see.
 
 # What are Jupyter Notebooks? #
 
