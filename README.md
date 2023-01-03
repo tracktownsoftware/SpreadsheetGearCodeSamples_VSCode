@@ -27,7 +27,7 @@ The code samples in this repository demonstrates a wide variety of APIs and feat
 
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their diffences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
-# Visual Studio Code and Python installation
+# Visual Studio Code installation
 
 *These instructions should work for Windows, MacOS and Linux*
 

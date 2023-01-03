@@ -1,6 +1,6 @@
 # Get Started #
   1. [SpreadsheetGear Nuget packages used in these demos](../README.md#get-started)
-  2. [Install Visual Studio Code on Windows, Linux or MacOS](../README.md##visual-studio-code-and-python-installation)
+  2. [Install Visual Studio Code on Windows, Linux or MacOS](../README.md#visual-studio-code-installation)
   3. Use Git to clone this repository
 
 # C# Jupyter Notebooks in Samples_JupyterCSharp #
