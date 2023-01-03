@@ -22,7 +22,7 @@
 A Jupyter Notebook is a document for creating and sharing live code, equations, visualizations, and text.
 
 The history of Jupyter Notebooks in Visual Studio Code:
-- Visual Studio Code has long supported Python Jupyter Notebooks and the Python language
+- Visual Studio Code has long supported Python Jupyter Notebooks and Python code
 - In 2019 an additional .NET based Jupyter kernel was introduced and supported C#, F#, and Powershell
 - Today the current .NET Interactive kernel supports C#, F#, Powershell, Javascript, SQL, KQL, HTML and Mermaid.
 - You can mix language cells in the same .NET Interactive kernel notebook. Variable sharing is supported across code for C#, F#, Powershell, Javascript, SQL and KQL.
