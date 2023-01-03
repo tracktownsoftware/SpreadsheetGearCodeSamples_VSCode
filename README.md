@@ -16,9 +16,10 @@ This repository contains [SpreadsheetGear](https://www.spreadsheetgear.com/) cod
 * [Samples_WindowsWPF](docs/Samples_WindowsWPF.md) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
 
 # Get Started #
-  1. [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
-  2. [Install Visual Studio Code and Python on Windows, Linux or MacOS](#visual-studio-code-installation)
-  3. [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
+1. [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
+2. [Install Visual Studio Code on Windows, Linux or MacOS](#visual-studio-code-installation)
+    - Include Python requirements if you are using Python samples
+3. [Open and run SpreadsheetGear code samples in Visual Studio Code](#open-and-run-spreadsheetgear-code-samples-in-visual-studio-code)
 
 # SpreadsheetGear Nuget packages used in these demos
 The code samples in this repository demonstrates a wide variety of APIs and features from these SpreadsheetGear Nuget packages:
