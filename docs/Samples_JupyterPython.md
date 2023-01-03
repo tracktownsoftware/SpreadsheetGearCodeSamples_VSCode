@@ -22,6 +22,8 @@
 
 A minor inconvenience: Python doesn't support Nuget package references which is how [.NET6 SpreadsheetGear](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta) is distributed. In this repo see [sample code using SpreadsheetGear in Python](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) showing a simple workaround. Perhaps a future [python package](https://www.nuget.org/packages) will be made available to install the .NET6 SpreadsheetGear assembly into the active Python environment.
 
+From Python.NET documentation: [Embedding .NET into Python](https://pythonnet.github.io/pythonnet/python.html)
+
 # What are Jupyter Notebooks? #
 
 A Jupyter Notebook is a document for creating and sharing live code, equations, visualizations, and text.
