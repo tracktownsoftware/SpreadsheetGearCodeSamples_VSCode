@@ -8,6 +8,8 @@
 - [CSharpExcelToolsComparison.ipynb](../Samples_JupyterCSharp/CSharpExcelToolsComparison.ipynb)
 - [JupyterCSharp_Part1_Workbook.ipynb](../Samples_JupyterCSharp/JupyterCSharp_Part1_Workbook.ipynb)
 
+*Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
+
 # What are Jupyter Notebooks? #
 
 A Jupyter Notebook is a document for creating and sharing live code, equations, visualizations, and text.
