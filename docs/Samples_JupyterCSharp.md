@@ -41,7 +41,7 @@ Jupyter notebooks with C# code are known by different names
 
 ![Image](images/ChangeNotebookKernel.jpg)
 
-Links about Polygot notebooks (aka .NET Interactive notebooks)
+# Useful links #
 - [Polygot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 - [.NET Interactive Notesbooks is now Polygot Notebooks](https://devblogs.microsoft.com/dotnet/dotnet-interactive-notebooks-is-now-polyglot-notebooks/)
 - [.NET Interactive Notebooks for C#](https://github.com/dotnet/csharp-notebooks)
