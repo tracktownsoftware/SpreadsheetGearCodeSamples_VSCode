@@ -20,7 +20,7 @@
 
 [Python.NET is a package](https://pypi.org/project/pythonnet/) that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. It allows Python code to interact with the CLR, and may also be used to embed Python into a .NET application.
 
-***A minor inconvenience***: Python doesn't support Nuget package references which is how [.NET6 SpreadsheetGear](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta) is distributed. In this repo see [sample code using SpreadsheetGear in Python](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) showing a simple workaround.
+*A minor inconvenience*: Python doesn't support Nuget package references which is how [.NET6 SpreadsheetGear](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta) is distributed. In this repo see [SpreadsheetGear sample code in Python](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) showing a simple workaround.
 
 From Python.NET documentation: [Embedding .NET into Python](https://pythonnet.github.io/pythonnet/python.html)
 
