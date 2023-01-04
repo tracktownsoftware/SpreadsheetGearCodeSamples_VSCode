@@ -32,7 +32,7 @@ The history of Jupyter Notebooks in Visual Studio Code:
 - Visual Studio Code has long supported Python Jupyter Notebooks and Python code.
 - In 2019 Microsoft introduced an additional Jupyter kernel, now called .NET Interactive kernel, that supports C#, F#, Powershell, Javascript, SQL, KQL, HTML and Mermaid.
 
-# Make your Jupyter notebook Python or .NET Interactive (C#) #
+# Set your Jupyter notebook kernel to Python or .NET Interactive (C#) #
 1. In VSCode add a new file with the ".ipynb" extension 
 2. Open the notebook in VSCode
 3. The active Jupyter notebook kernel will show in the upper right (A in the image below). Click on it if you want to change the kernel.
