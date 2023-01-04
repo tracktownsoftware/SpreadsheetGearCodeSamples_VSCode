@@ -3,9 +3,9 @@
 2. [Install Visual Studio Code and Python on Windows, Linux or MacOS](../README.md#visual-studio-code-installation)
 3. Use Git to clone this repository
 
-# Python Jupyter Notebooks in Samples_JupyterCSharp #
-- [JupyterPython_HelloWorld.ipynb](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) - a simple SpreadsheetGear in Python code sample
-- [PythonExcelToolsComparison.ipynb](../Samples_JupyterPython/PythonExcelToolsComparison.ipynb) - a Python Excel tools performance comparison 
+# Samples_JupyterPython notebooks #
+- [JupyterPython_HelloWorld.ipynb](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) - a simple Python SpreadsheetGear code sample
+- [PythonExcelToolsComparison.ipynb](../Samples_JupyterPython/PythonExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other Python Excel tools 
 
 *Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
 
@@ -20,7 +20,7 @@
 
 [Python.NET is a package](https://pypi.org/project/pythonnet/) that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. It allows Python code to interact with the CLR, and may also be used to embed Python into a .NET application.
 
-A minor inconvenience: Python doesn't support Nuget package references which is how [.NET6 SpreadsheetGear](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta) is distributed. In this repo see [sample code using SpreadsheetGear in Python](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) showing a simple workaround. Perhaps a future [python package](https://www.nuget.org/packages) will be made available to install the .NET6 SpreadsheetGear assembly into the active Python environment.
+*A minor inconvenience*: Python doesn't support Nuget package references which is how [.NET6 SpreadsheetGear](https://www.nuget.org/packages/SpreadsheetGear/9.1.19-beta) is distributed. In this Jupyter notebook see [SpreadsheetGear sample code in Python](../Samples_JupyterPython/JupyterPython_HelloWorld.ipynb) showing a simple workaround.
 
 From Python.NET documentation: [Embedding .NET into Python](https://pythonnet.github.io/pythonnet/python.html)
 
@@ -32,7 +32,7 @@ The history of Jupyter Notebooks in Visual Studio Code:
 - Visual Studio Code has long supported Python Jupyter Notebooks and Python code.
 - In 2019 Microsoft introduced an additional Jupyter kernel, now called .NET Interactive kernel, that supports C#, F#, Powershell, Javascript, SQL, KQL, HTML and Mermaid.
 
-# Make your Jupyter notebook Python or .NET Interactive (C#) #
+# Set your Jupyter notebook kernel to Python or .NET Interactive (C#) #
 1. In VSCode add a new file with the ".ipynb" extension 
 2. Open the notebook in VSCode
 3. The active Jupyter notebook kernel will show in the upper right (A in the image below). Click on it if you want to change the kernel.

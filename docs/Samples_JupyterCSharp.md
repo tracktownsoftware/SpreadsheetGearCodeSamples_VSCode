@@ -3,9 +3,9 @@
   2. [Install Visual Studio Code on Windows, Linux or MacOS](../README.md#visual-studio-code-installation)
   3. Use Git to clone this repository
 
-# C# Jupyter Notebooks in Samples_JupyterCSharp #
-- [JupyterCSharp_HelloWorld.ipynb](../Samples_JupyterCSharp/JupyterCSharp_HelloWorld.ipynb)
-- [CSharpExcelToolsComparison.ipynb](../Samples_JupyterCSharp/CSharpExcelToolsComparison.ipynb)
+# Samples_JupyterCSharp notebooks#
+- [JupyterCSharp_HelloWorld.ipynb](../Samples_JupyterCSharp/JupyterCSharp_HelloWorld.ipynb) - a simple C# SpreadsheetGear code sample
+- [CSharpExcelToolsComparison.ipynb](../Samples_JupyterCSharp/CSharpExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other .NET Excel tools
 - [JupyterCSharp_Part1_Workbook.ipynb](../Samples_JupyterCSharp/JupyterCSharp_Part1_Workbook.ipynb)
 
 *Note: Viewing the above Jupyter notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
@@ -33,7 +33,7 @@ Jupyter notebooks with C# code are known by different names
 - Another term is ".NET Interactive" notebook because notebooks with C# use the ".NET Interactive" Jupyter kernel.
 - The latest term is "Polygot" notebook. Microsoft renamed the Visual Studio Code extension to [Polygot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) from the former ".NET Interactive Notebooks" extension.
 
-# Make your Jupyter notebook Python or .NET Interactive (C#) #
+# Set your Jupyter notebook kernel to Python or .NET Interactive (C#) #
 1. In VSCode add a new file with the ".ipynb" extension 
 2. Open the notebook in VSCode
 3. The active Jupyter notebook kernel will show in the upper right (A in the image below). Click on it if you want to change the kernel.
