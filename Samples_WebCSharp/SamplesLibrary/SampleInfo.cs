@@ -6,6 +6,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace SamplesLibrary
@@ -84,7 +85,7 @@ namespace SamplesLibrary
         /// based on the Category folder(s) that its in</param>
         public void AddSourceCode(string filename)
         {
-            SourceCodes.Add(new SourceCodeItem($@"{SampleFolderPath}\{filename}", Name, Description));
+            SourceCodes.Add(new SourceCodeItem(Path.Combine(SampleFolderPath, filename), Name, Description));
         }
 
         /// <summary>
