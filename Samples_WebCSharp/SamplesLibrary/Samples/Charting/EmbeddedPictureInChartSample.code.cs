@@ -1,4 +1,7 @@
-﻿namespace SamplesLibrary.Samples.Charting
+﻿using System.IO;
+using static System.Net.Mime.MediaTypeNames;
+
+namespace SamplesLibrary.Samples.Charting
 {
     public class EmbeddedPictureInChartSample : ISpreadsheetGearEngineSample
     {
@@ -21,16 +24,15 @@
             // Get the full path to a PNG image.
             string workbookPath = Helpers.GetFullOutputFolderPath(@"Files\Engine\SpreadsheetGearLogoAndText.png");
 
+            double imageProportion;                  
             // Load picture into byte array.
             byte[] pictureBytes = System.IO.File.ReadAllBytes(workbookPath);
-
-            // Open the file as a System.Drawing.Image so that we can get its dimensions the proportion between the 
-            // height and width.
-            System.IO.MemoryStream ms = new System.IO.MemoryStream(pictureBytes);
-            System.Drawing.Image image = System.Drawing.Image.FromStream(ms);
-            double imageWidth = image.Width;
-            double imageHeight = image.Height;
-            double imageProportion = imageHeight / imageWidth;
+            using (SkiaSharp.SKImage image = SkiaSharp.SKImage.FromEncodedData(pictureBytes))
+            {
+                double imageWidth = image.Width;
+                double imageHeight = image.Height;
+                imageProportion = imageHeight / imageWidth;
+            }
 
             // Get the Chart IShape and IChart objects.
             SpreadsheetGear.Shapes.IShape chartShape = worksheet.Shapes["Chart 1"];

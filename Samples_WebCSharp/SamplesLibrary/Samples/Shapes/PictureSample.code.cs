@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace SamplesLibrary.Samples.Shapes
@@ -31,11 +32,10 @@ namespace SamplesLibrary.Samples.Shapes
             // and top are calculated in the code below.
             double width;
             double height;
-            System.Drawing.Image image = System.Drawing.Image.FromFile(imagePath);
-            using (image)
+            using (SkiaSharp.SKImage image = SkiaSharp.SKImage.FromEncodedData(imagePath))
             {
-                width = image.Width * 72.0 / image.HorizontalResolution;
-                height = image.Height * 72.0 / image.VerticalResolution;
+                width = image.Width;
+                height = image.Height;
             }
 
             // Calculate the left and top coordinates of the picture by converting 

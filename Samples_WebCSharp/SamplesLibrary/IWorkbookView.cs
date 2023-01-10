@@ -30,14 +30,5 @@ namespace SamplesLibrary
         public void Print(PrintWhat printWhat, bool showPrintDialog);
         public void PrintPreview();
         public void PrintPreview(PrintWhat printWhat);
-
-
-        /// <summary>
-        /// NOTE: this method is unrelated to / not implemented by the WinForms and WPF WorkbookView classes.  Some 
-        /// samples use this method to get the parent window of the running sample when showing one of the "Explorer"
-        /// dialogs.  This allows the Explorer dialog to stay on top of the parent window, even when the user clicks
-        /// back on the WorkbookView in the parent window.
-        /// </summary>
-        public System.Windows.Forms.IWin32Window GetOwnerWindow();
     }
 }
