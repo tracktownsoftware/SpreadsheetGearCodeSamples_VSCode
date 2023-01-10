@@ -7,6 +7,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 using System.Text;
 
@@ -20,8 +21,12 @@ namespace SamplesLibrary
         /// <param name="pathFromOutputFolder">Path relative to the Output/bin directory</param>
         public static string GetFullOutputFolderPath(string pathFromOutputFolder = "")
         {
-            string pathToOutputFolder = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
-            return Path.Combine(pathToOutputFolder, pathFromOutputFolder);
+            // Path.Combine used to get platform specific (Windows, Linux, MacOS) path delimiter
+            string[] pathsFromOutputFolder = pathFromOutputFolder.Split("\\");
+            string[] pathsToCombine = new string[pathsFromOutputFolder.Length + 1];
+            pathsToCombine[0] = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
+            Array.Copy(pathsFromOutputFolder, 0, pathsToCombine, 1, pathsFromOutputFolder.Length);
+            return (Path.Combine(pathsToCombine));
         }
     }
 }
