@@ -2,18 +2,16 @@
 
 # SpreadsheetGear code samples for Visual Studio Code
 
-This repository contains [SpreadsheetGear](https://www.spreadsheetgear.com/) code samples for .NET6 WPF, .NET6 Windows Forms, ASP.NET Core, Python 3 and Jupyter Notebook applications. 
+[Visual Studio Code (VSCode)](https://code.visualstudio.com/) is a source code editor for Windows, Linux and MacOS.
 
-[Visual Studio Code (VSCode)](https://code.visualstudio.com/) is a source code editor for Windows, Linux and MacOS. This repository is based on a fork of [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples) which was developed using Visual Studio 2022 on Windows. Changes for the folder-centric VSCode include workspace files (.code-workspace) for all code samples, and new Jupyter Notebook and Python code samples.
-
-**These SpreadsheetGear code samples will run in Visual Studio Code on Windows, MacOS and Linux unless *"Windows only"* is indicated.**
+**This repository contains [SpreadsheetGear](https://www.spreadsheetgear.com/) code samples that will run on Windows, MacOS and Linux.**
 
 * [Samples_WebCSharp](docs/Samples_WebCSharp.md) - Contains C# sample code in a ASP.NET Core web app
 * Samples_WebPython - Contains Python 3 sample code in a Python and Flask web app
 * [Samples_JupyterCSharp](docs/Samples_JupyterCSharp.md)  - Contains .NET 6.0 C# sample code in Jupyter notebooks
 * [Samples_JupyterPython](docs/Samples_JupyterPython.md) - Contains Python 3 sample code in Jupyter notebooks
-* [Samples_WindowsForms](docs/Samples_WindowsForms.md) - Contains .NET 6.0 C# sample code for Windows Forms ***(Windows only)***
-* [Samples_WindowsWPF](docs/Samples_WindowsWPF.md) - Contains .NET 6.0 C# sample code for WPF ***(Windows only)***
+
+Spreadsheetgear code samples for Windows Forms and Windows WPF can be found at [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples).
 
 # Get Started #
 1. [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
@@ -57,8 +55,6 @@ C:\temp>git clone https://github.com/tracktownsoftware/SpreadsheetGearCodeSample
     - Samples_WebPython.code-workspace
     - **[Samples_JupyterCSharp.code-workspace](docs/Samples_JupyterCSharp.md)**
     - **[Samples_JupyterPython.code-workspace](docs/Samples_JupyterPython.md)**
-    - **[Samples_WindowsForms.code-workspace](docs/Samples_WindowsForms.md)**
-    - **[Samples_WindowsWPF.code-workspace](docs/Samples_WindowsWPF.md)**
 
 3. **For additional instructions specific to a code workspace, click on its link in Step 2 above.**
 
