@@ -11,7 +11,7 @@
 * [Samples_JupyterCSharp](docs/Samples_JupyterCSharp.md)  - Contains .NET 6.0 C# sample code in Jupyter notebooks
 * [Samples_JupyterPython](docs/Samples_JupyterPython.md) - Contains Python 3 sample code in Jupyter notebooks
 
-Spreadsheetgear code samples for Windows Forms and Windows WPF can be found at [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples).
+More Spreadsheetgear code samples for ASP.NET Core, Windows Forms and Windows WPF can be found at [SpreadsheetGear/SpreadsheetGearExplorerSamples](https://github.com/SpreadsheetGear/SpreadsheetGearExplorerSamples).
 
 # Get Started #
 1. [SpreadsheetGear Nuget packages used in these demos](#spreadsheetgear-nuget-packages-used-in-these-demos)
