@@ -1,6 +1,6 @@
 ## This SpreadsheetGearCodeSamples_VSCode repo is no longer active ##
 
-The code sample projects have been separated into their own repositories. They now include .devcontainer configuration files so they can be opened in Github Codespaces or local Docker Dev Container.
+The code sample projects have been separated into their own repositories. They now include .devcontainer configuration files so they can be opened in Github Codespaces or a local Docker Dev Container.
 
 [SpreadsheetGearCodeSamples_JupyterCSharp](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_JupyterCSharp)
 
