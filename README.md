@@ -4,7 +4,7 @@ The code sample projects have been separated into their own repositories. They n
 
 [SpreadsheetGearCodeSamples_JupyterCSharp](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_JupyterCSharp)
 
-[SpreadsheetGearCodeSamples_Python](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_Python)
+[SpreadsheetGearCodeSamples_JupyterPython](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_JupyterPython)
 
 [SpreadsheetGearCodeSamples_WebCSharp](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_WebCSharp)
 
